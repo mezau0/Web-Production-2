@@ -1,3 +1,31 @@
 h1 {
     display: flex;
-}
+	margin: 0px;
+	color: indigo;}
+
+	h2 {
+        color: rgb(189, 117, 218);
+        padding: 0em;    }
+
+body {
+	background-image: url(Fairytale.jpg);
+	background-attachment: fixed;
+	background-position: center;
+	position: relative;
+	margin: 0;
+	padding: 0.5em;
+	min-height: 100%;
+		}
+
+span {
+    background-color: rgba(234, 182, 255, 0.5);
+    }
+
+.valentine {
+    display: none;
+    border: 5px;
+    background-color: lightpink;
+    text-align: center;
+  }
+
+  .button {color:#AFA7FF;}
