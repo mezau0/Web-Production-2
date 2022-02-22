@@ -1,0 +1,11 @@
+body {
+background-image: url('typewriter.jpeg');
+color: aliceblue;
+font-family: "OpenDyslexic-Regular", 'Monaco', 'candara', 'Courier New', sans-serif;
+text-align: center;
+background-color: lightslategrey;
+margin: 0;
+padding: 10em;
+min-height: 100%;
+}
+
